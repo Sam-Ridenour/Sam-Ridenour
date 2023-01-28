@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sam-Ridenour or some may know me as MoCrunchy.
-- 👀 I’m pursuing Game Development as well as becoming a Content Creator!
-- 🌱 I’m currently learning C#, Unity, Blender.
+- 👋 Hi, I’m @Sam-Ridenour
+- 👀 I’m pursuing Software Development
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ... 🤷‍♂️
 - 📫 How to reach me: 
 - Watch me at Twitch: https://www.twitch.tv/mocrunchy I would love to chat with you in real time!
